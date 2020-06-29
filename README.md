@@ -34,10 +34,13 @@ only_ent_ids, no_ent_ids, only_wrong_ids, out_texts = AdversarialBERT().main(tes
 
 ## using the Jupyter Notebook 
 /src/AdversarialAttackNER.ipynb
+
 *Examples of usage can also be found in .ipynb
 
 
 ## using the .py file 
+download /src/AdversarialAttackNER.py into folder 
+
 from AdversarialAttackNER import AdversarialBERT
 
 
