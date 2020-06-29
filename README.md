@@ -4,11 +4,12 @@ This repository contains the code for Breaking BERT: Adversarial Attack for Name
 # Prerequisites 
 
 For installing the required packages: 
-#using pip
+
+*Using pip* 
 pip install --upgrade pip
 pip install -r ./env/requirements.txt
 
-#or using conda
+*Using conda* 
 conda env create -f ./env/environment.yml
 
 Additionally you will need to install Pattern:
