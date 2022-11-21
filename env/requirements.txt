@@ -110,7 +110,7 @@ six==1.14.0
 syntok==1.2.2
 tensorboard==2.2.0
 tensorboard-plugin-wit==1.6.0.post2
-tensorflow==2.2.0rc2
+tensorflow==2.9.3
 tensorflow-datasets==2.1.0
 tensorflow-estimator==2.2.0rc0
 tensorflow-metadata==0.21.1
